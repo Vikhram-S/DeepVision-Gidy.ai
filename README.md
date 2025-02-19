@@ -33,3 +33,71 @@
    ```bash
    git clone https://github.com/yourusername/deepventure-hub.git
    cd deepventure-hub
+   ```
+2.**Install Dependencies**:
+
+```
+pip install -r requirements.txt
+```
+3.**Dataset:**
+
+- Stackoverflow Annual Developer Survey Dataset
+- Dataset Download link - https://survey.stackoverflow.co/
+
+-idea_description – Text of the idea description.
+-score – A numeric target score for training the evaluation model.
+## Project Structure
+```
+deepventure_hub/
+├── requirements.txt              # Python dependencies
+├── README.md                     # Project documentation (this file)
+├── deepventure_backend.py        # Core module:
+│    - scikit‑learn functions for idea evaluation
+│    - TensorFlow functions for simulation
+│    - Microlearning, mentorship, and analytics functions
+├── gradio_app.py                 # Gradio interface for interactive idea evaluation
+└── streamlit_app.py              # Streamlit dashboard for real-time analytics
+```
+## Usage
+**Training and Evaluation**
+**Idea Evaluation**:
+
+- The function evaluate_idea(description) in deepventure_backend.py:
+- Loads (or trains) a scikit‑learn model using the stackoverflow_survey_2024.csv dataset.
+- Transforms the idea description using a TF-IDF vectorizer.
+- Predicts a score between 0 and 100.
+**Business Simulation**:
+
+- The function run_simulation(title, description, score):
+- Loads (or trains) a TensorFlow model that takes a normalized idea score as input.
+- Outputs a predicted success rate for the idea.
+- Launch Gradio Interface
+- To start the interactive idea evaluation interface:
+
+```
+python gradio_app.py
+```
+**A local web interface will open where you can**:
+
+- Enter your idea title and description.
+- Receive an AI evaluation score.
+- Run a business simulation.
+- Get matched with a mentor.
+- Explore microlearning modules.
+- Launch Streamlit Dashboard
+- To view the real-time analytics dashboard:
+
+```
+streamlit run streamlit_app.py
+```
+**This dashboard displays:**
+
+- Market trends.
+- Funding rounds.
+- Sector insights.   
+
+## **License**
+This project is licensed under the MIT License.
+
+## **Contact**
+For questions or further information, please contact vikhrams@saveetha.ac.in.
