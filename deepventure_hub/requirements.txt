@@ -1,0 +1,9 @@
+plotly>=5.15.0
+gradio>=5.17.0
+streamlit>=1.42.0
+scikit-learn>=1.2.2
+tensorflow>=2.14.0
+pandas>=2.1.1
+numpy>=1.26.0
+requests>=2.31.0
+datasets>=2.14.5  # Optional for easier dataset handling
