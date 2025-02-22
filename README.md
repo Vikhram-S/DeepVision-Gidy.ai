@@ -32,29 +32,28 @@
 
 ## **Technologies Used**  
 
-- 🐍 **Python 3.x**  
-- 🎨 **Gradio** - For interactive **idea evaluation UI**.  
-- 🌐 **Streamlit** - For building the **real-time analytics dashboard**.  
-- ⚙️ **Standard Python Libraries** (e.g., `random`) for mock implementations.  
+- **Python 3.x**  
+- **Gradio** - For interactive **idea evaluation UI**.  
+- **Streamlit** - For building the **real-time analytics dashboard**.  
+- **Standard Python Libraries** (e.g., `random`) for mock implementations.  
 
 ---
-2️⃣ Install Dependencies
-bash
-Copy
-Edit
+**2️⃣ Install Dependencies** 
+```
 pip install -r requirements.txt
-3️⃣ Dataset
-📂 Dataset Used: Stack Overflow Annual Developer Survey Dataset
-🔗 Dataset Download: Click here
+```
+**3️⃣ Dataset** 
+📂 Dataset Used: Yelp Review Full Dataset
+🔗 Dataset Download: ![Click here] (https://huggingface.co/datasets/Yelp/yelp_review_full)
 
-📑 Dataset Columns:
+**📑 Dataset Columns:**
 
 idea_description – Text of the idea description.
 score – A numeric target score for training the evaluation model.
 Project Structure
 plaintext
-Copy
-Edit
+
+```
 deepventure_hub/
 ├── requirements.txt              # Python dependencies
 ├── README.md                     # Project documentation (this file)
@@ -64,49 +63,51 @@ deepventure_hub/
 │    - Microlearning, mentorship, and analytics functions
 ├── gradio_app.py                 # Gradio interface for interactive idea evaluation
 └── streamlit_app.py              # Streamlit dashboard for real-time analytics
-Usage
-1️⃣ Training and Evaluation
-💡 Idea Evaluation
-📌 The function evaluate_idea(description) in deepventure_backend.py:
+```
+**Usage**
+**1️⃣ Training and Evaluation**
+- 💡 **Idea Evaluation**
+- 📌 The function evaluate_idea(description) in deepventure_backend.py:
 
-Loads (or trains) a scikit-learn model using the stackoverflow_survey_2024.csv dataset.
-Transforms the idea description using a TF-IDF vectorizer.
-Predicts a score between 0 and 100.
-📈 Business Simulation
-📌 The function run_simulation(title, description, score):
+- Loads (or trains) a scikit-learn model using the stackoverflow_survey_2024.csv dataset.
+- Transforms the idea description using a TF-IDF vectorizer.
+- Predicts a score between 0 and 100.
 
-Loads (or trains) a TensorFlow model that takes a normalized idea score as input.
-Outputs a predicted success rate for the idea.
-2️⃣ Launch Gradio Interface
-📌 To start the interactive idea evaluation interface, run:
+**📈 Business Simulation**
+- 📌 The function run_simulation(title, description, score):
 
-bash
-Copy
-Edit
+- Loads (or trains) a TensorFlow model that takes a normalized idea score as input.
+- Outputs a predicted success rate for the idea.  
+**2️⃣ Launch Gradio Interface**
+- 📌 To start the interactive idea evaluation interface, run:
+
+```
 python gradio_app.py
-🚀 A local web interface will open where you can:
-✅ Enter your idea title and description.
-✅ Receive an AI evaluation score.
-✅ Run a business simulation.
-✅ Get matched with a mentor.
-✅ Explore microlearning modules.
+```
+**🚀 A local web interface will open where you can:**
+- ✅ Enter your idea title and description.
+- ✅ Receive an AI evaluation score.
+- ✅ Run a business simulation.
+- ✅ Get matched with a mentor.
+- ✅ Explore microlearning modules.
 
 
-3️⃣ Launch Streamlit Dashboard
-📌 To view the real-time analytics dashboard, run:
-
-
+**3️⃣ Launch Streamlit Dashboard**
+- 📌 To view the real-time analytics dashboard, run:
+```
 streamlit run streamlit_app.py
-📊 This dashboard displays:
-✔️ Market trends
-✔️ Funding rounds
-✔️ Sector insights
+```
+**📊 This dashboard displays:**
+- ✔️ Market trends
+- ✔️ Funding rounds
+- ✔️ Sector insights
 
 
-License
+# License
 📜 This project is licensed under the MIT License.
 
-Contact
-📧 For questions or further information, please contact:
+# Contact
+📧 For questions or further information and inquiries, please contact:
+``
 vikhrams@saveetha.ac.in
-Now, **everything** is formatted properly for **Markdown** and can be directly copied into your `README.md` file. 🚀 Let me know if you need any further refinements! 😊
+``
