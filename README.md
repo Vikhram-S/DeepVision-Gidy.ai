@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ```
 **3️⃣ Dataset** 
 📂 Dataset Used: Yelp Review Full Dataset
-🔗 Dataset Download: ![Click here](https://huggingface.co/datasets/Yelp/yelp_review_full)
+🔗 Dataset Download: (https://huggingface.co/datasets/Yelp/yelp_review_full)
 
 **📑 Dataset Columns:**
 
