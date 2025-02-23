@@ -8,27 +8,32 @@
 
 ### **🚀 AI-Powered Idea Evaluation**  
 🔍 Submit your business idea and receive an **AI-generated evaluation score**.  
+
 ![Screenshot 2025-02-21 224428](https://github.com/user-attachments/assets/4ef56c04-7b41-4152-b411-f27aeb22f9aa)
 
 
 ### **📊 Business Simulation**  
-🎮 Run simulations based on your idea to assess potential **success and market viability**.  
+🎮 Run simulations based on your idea to assess potential **success and market viability**.
+
 ![Screenshot 2025-02-21 224443](https://github.com/user-attachments/assets/d3ec9cf4-1778-488f-9a39-4e45dd23e25d)
  
 
 ### **🤝 Mentor Matching**  
 🎯 Get matched with industry experts based on the **keywords in your idea description**.  
+
 ![Screenshot 2025-02-21 224455](https://github.com/user-attachments/assets/9e815937-b548-4f51-8a1d-90c750d12a01)
 
 
 ### **📚 Personalized Microlearning Modules**  
 📖 Explore curated **microlearning content** across topics such as **business fundamentals, digital marketing, and financial management**.  
+
 ![Screenshot 2025-02-23 201125](https://github.com/user-attachments/assets/c7628f2c-0054-4b41-8ac6-e0891f050803)
 
 
 
 ### **📈 Real-Time Analytics Dashboard**  
 📊 View **up-to-date market trends, funding rounds, and sector-specific insights** via a dedicated dashboard.  
+
 ![Screenshot 2025-02-21 224731](https://github.com/user-attachments/assets/1bdbee35-acfa-46a5-b6e7-fa0f0b7420ab)
 
 
@@ -108,6 +113,21 @@ streamlit run streamlit_app.py
 - ✔️ Market trends
 - ✔️ Funding rounds
 - ✔️ Sector insights
+
+4️⃣ Launch Streamlit Microlearning Module
+📌 To explore the microlearning module and boost your skills, run:
+```
+streamlit run microlearning_streamlit.py
+```
+**📚 This module displays:**
+
+- ✔️ Personalized Learning Modules
+
+- ✔️ Interactive Quizzes
+
+- ✔️ Progress Tracking
+
+- ✔️ Certificates
 
 
 # License
