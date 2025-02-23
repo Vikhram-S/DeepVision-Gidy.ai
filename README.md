@@ -23,7 +23,8 @@
 
 ### **📚 Personalized Microlearning Modules**  
 📖 Explore curated **microlearning content** across topics such as **business fundamentals, digital marketing, and financial management**.  
-![Screenshot 2025-02-21 224744](https://github.com/user-attachments/assets/15bcc1c6-067e-4fd3-bbab-529c3271f6e0)
+![Screenshot 2025-02-23 201125](https://github.com/user-attachments/assets/c7628f2c-0054-4b41-8ac6-e0891f050803)
+
 
 
 ### **📈 Real-Time Analytics Dashboard**  
@@ -60,14 +61,15 @@ plaintext
 
 ```
 deepventure_hub/
-├── requirements.txt              # Python dependencies
-├── README.md                     # Project documentation (this file)
-├── deepventure_backend.py        # Core module:
+├── requirements.txt             
+├── README.md                    
+├── deepventure_backend.py        
 │    - scikit‑learn functions for idea evaluation
 │    - TensorFlow functions for simulation
 │    - Microlearning, mentorship, and analytics functions
-├── gradio_app.py                 # Gradio interface for interactive idea evaluation
-└── streamlit_app.py              # Streamlit dashboard for real-time analytics
+├── gradio_app.py                
+└── streamlit_app.py
+└── microlearning_app.py        
 ```
 **Usage**
 **1️⃣ Training and Evaluation**
