@@ -28,6 +28,8 @@
 📖 Explore curated **microlearning content** across topics such as **business fundamentals, digital marketing, and financial management**.  
 
 ![Screenshot 2025-02-25 222827](https://github.com/user-attachments/assets/0ac52e7b-4005-453a-ac59-230f0cee054f)
+![Screenshot 2025-02-25 222716](https://github.com/user-attachments/assets/799543fd-911d-49a8-aa4c-6297360ed755)
+
 
 
 ### **📈 Real-Time Analytics Dashboard**  
@@ -72,7 +74,8 @@ deepventure_hub/
 │    - Microlearning, mentorship, and analytics functions
 ├── gradio_app.py                
 └── streamlit_app.py
-└── microlearning_app.py        
+└── microlearning_app.py
+       
 ```
 **Usage**
 **1️⃣ Training and Evaluation**
@@ -118,14 +121,15 @@ streamlit run streamlit_app.py
 streamlit run microlearning_streamlit.py
 ```
 **📚 This module displays:**
+- ✔️ **Secure Login Interface**
 
-- ✔️ Personalized Learning Modules
+- ✔️ **Personalized Learning Modules**
 
-- ✔️ Interactive Quizzes
+- ✔️ **Interactive Quizzes**
 
-- ✔️ Progress Tracking
+- ✔️ **Progress Tracking**
 
-- ✔️ Certificates
+- ✔️ **Certificates**
 
 
 # License
