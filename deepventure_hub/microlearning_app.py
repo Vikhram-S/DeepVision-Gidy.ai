@@ -15,7 +15,7 @@ from PIL import Image as PILImage, ImageDraw, ImageFont
 import io
 
 # Initialize backend with Hugging Face API token
-HF_API_TOKEN = "hugging_face"  # Replace with your actual token
+HF_API_TOKEN = "hugging_face"  # hugging face api token is confidential so iam not updated in github. should Replace with my actual token
 backend = DeepVentureBackend(HF_API_TOKEN)
 
 # Set page configuration for a modern, engaging dashboard
