@@ -1,7 +1,7 @@
 import gradio as gr
 from deepventure_backend import DeepVentureBackend
 
-# Replace with your Hugging Face API token
+# hugging face api token is confidential so iam not updated in github (Replace with actual token)
 HF_API_TOKEN = "huggingface_token"
 backend = DeepVentureBackend(HF_API_TOKEN)
 
