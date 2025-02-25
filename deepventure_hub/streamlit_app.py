@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
-# Replace with your Hugging Face API token
+# hugging face api token is confidential so iam not updated in github (Replace with actual token)
 HF_API_TOKEN = "huggingface_token"
 backend = DeepVentureBackend(HF_API_TOKEN)
 
