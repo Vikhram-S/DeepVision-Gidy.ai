@@ -27,8 +27,7 @@
 ### **📚 Personalized Microlearning Modules**  
 📖 Explore curated **microlearning content** across topics such as **business fundamentals, digital marketing, and financial management**.  
 
-![Screenshot 2025-02-23 201125](https://github.com/user-attachments/assets/c7628f2c-0054-4b41-8ac6-e0891f050803)
-
+![Screenshot 2025-02-25 222827](https://github.com/user-attachments/assets/0ac52e7b-4005-453a-ac59-230f0cee054f)
 
 
 ### **📈 Real-Time Analytics Dashboard**  
@@ -59,10 +58,9 @@ pip install -r requirements.txt
 
 **📑 Dataset Columns:**
 
-idea_description – Text of the idea description.
-score – A numeric target score for training the evaluation model.
-Project Structure
-plaintext
+- idea_description – Text of the idea description.
+- score – A numeric target score for training the evaluation model.
+**Project Structure**  
 
 ```
 deepventure_hub/
