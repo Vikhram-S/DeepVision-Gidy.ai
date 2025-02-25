@@ -75,6 +75,7 @@ deepventure_hub/
 ├── gradio_app.py                
 └── streamlit_app.py
 └── microlearning_app.py
+└── output/screenshots
        
 ```
 **Usage**
