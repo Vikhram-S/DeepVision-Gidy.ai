@@ -9,19 +9,22 @@
 ### **🚀 AI-Powered Idea Evaluation**  
 🔍 Submit your business idea and receive an **AI-generated evaluation score**.  
 
-![Screenshot 2025-02-21 224428](https://github.com/user-attachments/assets/4ef56c04-7b41-4152-b411-f27aeb22f9aa)
+![Screenshot 2025-02-26 225820](https://github.com/user-attachments/assets/1defd1b5-5511-466c-afac-83913d79fee3)
+
 
 
 ### **📊 Business Simulation**  
 🎮 Run simulations based on your idea to assess potential **success and market viability**.
 
-![Screenshot 2025-02-21 224443](https://github.com/user-attachments/assets/d3ec9cf4-1778-488f-9a39-4e45dd23e25d)
+![Screenshot 2025-02-26 225840](https://github.com/user-attachments/assets/24efe60c-03c4-4846-85cf-cb42a88dfe7e)
+
  
 
 ### **🤝 Mentor Matching**  
 🎯 Get matched with industry experts based on the **keywords in your idea description**.  
 
-![Screenshot 2025-02-21 224455](https://github.com/user-attachments/assets/9e815937-b548-4f51-8a1d-90c750d12a01)
+![Screenshot 2025-02-21 224455](https://github.com/user-attachments/assets/d82aa1bd-288b-41b2-a24a-da18d2dbab77)
+
 
 
 ### **📚 Personalized Microlearning Modules**  
