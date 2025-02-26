@@ -6,6 +6,8 @@ tensorflow>=2.14.0
 pandas>=2.1.1
 numpy>=1.26.0
 requests>=2.31.0
-datasets>=2.14.5  # Optional for easier dataset handling
-pillow
-reportlab
+datasets>=2.14.5 
+reportlab>=4.0.0
+Pillow>=10.0.0
+typing-extensions>=4.0.0 
+uuid
