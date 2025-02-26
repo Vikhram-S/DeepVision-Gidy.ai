@@ -30,8 +30,10 @@
 ### **📚 Personalized Microlearning Modules**  
 📖 Explore curated **microlearning content** across topics such as **business fundamentals, digital marketing, and financial management**.  
 
-![Screenshot 2025-02-25 222827](https://github.com/user-attachments/assets/0ac52e7b-4005-453a-ac59-230f0cee054f)
-![Screenshot 2025-02-25 222716](https://github.com/user-attachments/assets/799543fd-911d-49a8-aa4c-6297360ed755)
+![Screenshot 2025-02-26 231151](https://github.com/user-attachments/assets/19b3d01a-c851-44a5-b34c-51b37cad2d3c)
+
+![Screenshot 2025-02-26 231839](https://github.com/user-attachments/assets/bc7bb635-6223-4d59-8a58-11da5f408ccd)
+
 
 
 
